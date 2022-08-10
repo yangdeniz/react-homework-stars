@@ -1,0 +1,9 @@
+ul.card-body-stars {
+  margin: 0;
+  padding: 0;
+}
+
+.card-body-stars li {
+  display: inline-block;
+  list-style: none;
+}
